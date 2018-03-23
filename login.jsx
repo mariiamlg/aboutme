@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { Button, Form, FormGroup, Label, Input } from 'reactstrap';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default class Example extends React.Component {
   render() {
